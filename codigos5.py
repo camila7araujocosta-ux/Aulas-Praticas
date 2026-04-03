@@ -1,4 +1,4 @@
-#Leia um número como texto
+#Algoritmo leia um número como texto
 a = input("Digite um número: ")
 
 #Converta para inteiro

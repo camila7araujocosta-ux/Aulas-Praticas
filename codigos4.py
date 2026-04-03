@@ -1,4 +1,4 @@
-#Leia um número 
+#Algoritmo leia um número 
 a = int(input("Digite um número: "))
 
 #Informe se o número é par ou impar
