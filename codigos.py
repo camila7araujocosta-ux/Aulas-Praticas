@@ -1,5 +1,7 @@
-#Algoritmo que identifique números negativos e positivos
+#Algoritmo que receba um número
 a = int(input("Digite um número: "))
+
+#identifique números negativos e positivos
 if (a > 0):
     print("O número é positivo")
 elif (a < 0): 
