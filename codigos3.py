@@ -1,0 +1,5 @@
+#Algoritmo que leia um valor e: Mostre o valor digitado; Mostre o tipo da variável usando type ()
+a = int(input("Digite um valor: "))
+print("O valor digitado foi: ", a)
+print("O tipo da varável é:", type (a))
+print("Fim do programa")
